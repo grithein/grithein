@@ -10,10 +10,10 @@ I am a psychologist and neuroscientist who studies the “social brain” as wel
 
 ## Contact
 
-Rebel base <br />
-[Yavin] <br />
-Galaxy far far away<br />
-Email: [chewy@rebel.com]
+Grit Hein <br />
+coming soon <br />
+<br />
+Email: [grit.hein@gmail.com]
 
 
 [Yavin]: https://en.wikipedia.org/wiki/Yavin
