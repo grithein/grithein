@@ -1,9 +1,7 @@
 ---
-- title: Media
-  href: "/media"
-- title: Research
-  href: "/research/"
 - title: CV
   href: "/cv/"
 - title: Publications
   href: "/publications/"
+- title: Media
+  href: "/media"
