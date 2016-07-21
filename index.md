@@ -16,5 +16,5 @@ new contact details coming soon <br />
 Email: [grit.hein@gmail.com]
 
 
-[Yavin]: https://en.wikipedia.org/wiki/Yavin
+
 [grit.hein@gmail.com]: mailto:grit.hein@gmail.com
