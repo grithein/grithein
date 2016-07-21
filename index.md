@@ -11,10 +11,10 @@ I am a psychologist and neuroscientist who studies the “social brain” as wel
 ## Contact
 
 Grit Hein <br />
-coming soon <br />
+new contact details coming soon <br />
 <br />
 Email: [grit.hein@gmail.com]
 
 
 [Yavin]: https://en.wikipedia.org/wiki/Yavin
-[chewy@rebel.com]: mailto:chewy@rebel.com
+[grit.hein@gmail.com]: mailto:grit.hein@gmail.com
