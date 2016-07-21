@@ -1,12 +1,12 @@
 ---
-layout: page
 title: About
-permalink: /
+layout: page
+permalink: "/"
 ---
 
 {% include image.html url="images/Grit_pic.jpg" caption="" max_width="300px" align="right" %}
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr,  sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr,  sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+I am a psychologist and neuroscientist who studies the “social brain” as well as core neural mechanisms of information processing. Most of my research combines functional magnetic resonance imaging (fMRI) with paradigms and methods from different disciplines such as social and experimental psychology and behavioural economics. Current topics of interest include sources of prosocial behaviour (emotion-based motives, norm-based motives etc), intergroup processes, and the neural integration of both social and non-social information.
 
 ## Contact
 
