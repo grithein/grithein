@@ -1,5 +1,5 @@
 ---
-title: Our work has been featured by
+title: My work has been featured by
 date: '2016-07-21 00:00:00'
 layout: page
 ---
