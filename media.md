@@ -7,4 +7,5 @@ layout: page
 
 [European Research Commission.](http://www.paneuropeannetworks.com/special-reports/uncovering-social-motives/)
 
-- still under construction -
+
+more will be added soon
