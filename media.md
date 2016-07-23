@@ -5,7 +5,7 @@ layout: page
 ---
 * The Paneuropean Network of the European Research Commission.
 
-[European Research Commission.](http://www.paneuropeannetworks.com/special-reports/uncovering-social-motives/)
+[link](http://www.paneuropeannetworks.com/special-reports/uncovering-social-motives/)
 
 
 more will be added soon
