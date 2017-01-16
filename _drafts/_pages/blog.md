@@ -1,7 +1,7 @@
 ---
-layout: page
 title: Blog
-permalink: /blog/
+layout: page
+permalink: "/blog/"
 ---
 
 Here is the much awaited blog.
