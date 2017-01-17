@@ -21,7 +21,7 @@ layout: page
 
 * Medical Daily.
 
-[link](http://www.medicaldaily.com/empathy-triggered-positive-experiences-among-strangers-study-366316))
+[link](http://www.medicaldaily.com/empathy-triggered-positive-experiences-among-strangers-study-366316)
 
 * Science Daily.
 
