@@ -9,6 +9,6 @@ I am a psychologist and neuroscientist and study the “social brain” as well 
 
 ## Contact
 
-Email: grit.hein @ econ.uzh.ch; [grit.hein @ gmail.com](mailto:grit.hein@gmail.com)
+Email: grit.hein @ econ.uzh.ch
 
 [](mailto:grit.hein@gmail.com)
