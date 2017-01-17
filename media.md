@@ -25,7 +25,7 @@ layout: page
 
 * Science Daily.
 
-[link]([link](https://www.sciencedaily.com/releases/2016/03/160303145739.htm)
+[link](https://www.sciencedaily.com/releases/2016/03/160303145739.htm)
 
 [link](https://www.sciencedaily.com/releases/2016/03/160303145739.htm)
 
