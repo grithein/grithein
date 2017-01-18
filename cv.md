@@ -9,6 +9,7 @@ Most recent qualification.
 
 *   academic teaching certificate (habilitation) in Psychology.
 
+
 Awards.
 
 *   The Heisenberg Fellowship, coordinated by the German Research Foundation,(DFG), Germany
