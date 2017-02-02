@@ -1,5 +1,5 @@
 ---
-title: Research group
+title: ''
 layout: page
 permalink: "/misc/"
 ---
