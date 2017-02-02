@@ -3,7 +3,7 @@ title: Neurobiology of Social Behavior Group
 layout: page
 permalink: "/misc/"
 ---
-### Goal. 
+### Our goal: 
 **We aim to understand the motives that drive social behaviors.**
 
 Motives are the driving forces behind human behaviors. If we understand a person’s motives, we understand why this person behaves in a certain way, and how this person will behave in the future. Thus, revealing motives, and the factors that shape them is essential for developing efficient and long-lasting societal and political interventions.
