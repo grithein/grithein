@@ -3,7 +3,7 @@ title: ''
 layout: page
 permalink: "/misc/"
 ---
-# Current research goal.
+# Current research goal
 
 **We aim to understand the motives that drive social behaviors.**
 
