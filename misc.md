@@ -1,19 +1,13 @@
 ---
+title: Neurobiology of Social Behavior Group
 layout: page
-title: Interests
-permalink: /misc/
+permalink: "/misc/"
 ---
 
-## Cool hobby to prove you are athletic
+## Research focus
 
-Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.
+**Understanding the motives that drive social behaviors
 
-## Cooler but boring hobby to prove you are smart
-Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi.
-
-## Cooler hobby 2
-Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.
-
-## Ancient hobby which is not cool anymore
-
-Consetetur sadipscing elitr,  sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr,  sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr,  sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+Motives are the driving forces behind human behaviors. If we understand a person’s motives, we understand why this person behaves in a certain way, and how this person will behave in the future. Thus, revealing motives, and the factors that shape them is essential for developing efficient and long-lasting societal and political interventions.
+The problem is that motives are well hidden. They are not observable in behavior, and often we are not aware of the motives that drive our behavior, or unwilling to reveal them. The Neurobiology of Social Behavior group is devoted to the understanding of the motivational sources of behavior. We use an interdisciplinary approach that combines neuroscience methods with approaches from social and experimental psychology, and paradigms from economics. Based on this approach, we establish the neurophysiological fingerprints of different motivational states, which are then used to reveal the motives behind a behavior, and to investigate the factors that enhance or inhibit these motives. 
+Our current work focuses on motive that drive social behaviors, for example empathy, reciprocity, collectivism and egoism. We investigate how these motives interact, how they are shaped by learning, and how they are altered across the life span and in psychopathological conditions. 
