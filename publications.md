@@ -3,7 +3,7 @@ title: ''
 layout: page
 permalink: "/publications/"
 ---
-## Peer-reviewed articles
+# Peer-reviewed articles
 
 Baumgartner, T, **Hein, G**, Saulin, A & Knoch, D (2016). Structural differences in insular cortex reflect vicarious injustice insensitivity. Plos One, 11, e0167538.
 
@@ -54,7 +54,7 @@ Naumer, MJ, Doehrmann O, Müller NG, Kaiser J, Muckli L, & **Hein, G** (2008). L
 
 Friederici, AD, Kotz, SA, Werheid. K, **Hein, G**, & von Cramon, DY (2003). Syntactic comprehension in Parkinson’s disease: investigating early automatic and late integrational processes using event-related brain potentials. Neuropsychology, 17, 133-142.
 
-## Books and Book chapters
+# Books and Book chapters
 
 **Hein, G** (2016). Soziale Neurowissenschaften. In O. Decker (ed.), Sozialpsychologie und Sozialtheorie, Band 1: Zugänge. Wiesbaden: VS Verlag für Sozialwissenschaften.
 
