@@ -10,11 +10,11 @@ I am a psychologist and neuroscientist and study the “social brain” as well 
 We are hosted by the Institute of Medical Psychology at the Goethe-University Frankfurt/M., and funded by the German Research Foundation.
 
 ## Contact
-
-PD. Dr. Grit Hein  
-Institut für Medizinische Psychologie
-Heinrich-Hoffmann-Strasse 10
-60528 Frankfurt am Main
+PD Dr. Grit Hein  
+Goethe-University Frankfurt am Main  
+Institute of Medical Psychology  
+Heinrich-Hoffmann-Strasse 10  
+D-60528 Frankfurt am Main
 
 Email: grit.hein@econ.uzh.ch, grit.hein@gmail.com
 
