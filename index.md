@@ -11,11 +11,11 @@ We are hosted by the Institute of Medical Psychology at the Goethe-University Fr
 
 ## Contact
 
-PD Dr. Grit Hein
-Goethe-University Frankfurt am Main
-Institute of Medical Psychology
-Heinrich-Hoffmann-Strasse 10
-D-60528 Frankfurt am Main
+PD Dr. Grit Hein 
+Goethe-University Frankfurt am Main 
+Institute of Medical Psychology 
+Heinrich-Hoffmann-Strasse 10 
+D-60528 Frankfurt am Main 
 Email: Hein@med.uni-frankfurt.de, grit.hein@gmail.com
 
 [](mailto:grit.hein@gmail.com)
