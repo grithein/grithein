@@ -13,15 +13,15 @@ We work in close cooperation with the Institute of Medical Psychology at the Goe
 
 ## Contact
 
-PD Dr.Grit Hein
+Prof Grit Hein, PhD
 
-Goethe-University Frankfurt am Main
+Julius-Maximilians-University Würzburg
 
-Institute of Medical Psychology
+Clinic for Psychiatry and Psychosomatic
 
-Heinrich-Hoffmann-Strasse 10
+Margarete-Höppel-Platz 1
 
-60528 Frankfurt am Main
+97080 Würzburg
 
 email: Hein@med.uni-frankfurt.de, grit.hein@gmail.com
 
