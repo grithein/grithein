@@ -21,7 +21,7 @@ Clinic for Psychiatry and Psychosomatic
 
 Margarete-Höppel-Platz 1
 
-97080 Würzburg
+D- 97080 Würzburg
 
 email: Hein@med.uni-frankfurt.de, grit.hein@gmail.com
 
