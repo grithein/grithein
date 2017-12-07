@@ -5,9 +5,9 @@ permalink: "/"
 ---
 {% include image.html url="images/Grit_pic.jpg" caption="" max_width="300px" align="right" %}
 
-I am a psychologist, neuroscientist and professor of Translational Social Neuroscience at the University of Würzburg (Germany). The work of my research group is devoted to the understanding of the motivational sources of behavior. Currently, we study motives that drive social behaviors, for example empathy, reciprocity, collectivism and egoism. We investigate how these motives interact, how they are shaped by learning, and how they are altered across the life span and in psychopathological conditions. Our approach integrates neuroscience, social and experimental psychology, and behavioral economics. We use a range of methods including brain imaging, computational modeling, and behavioral experiments.
+I am a psychologist, neuroscientist and professor of Translational Social Neuroscience at the University of Würzburg (Germany). The research at the Translational Social Neuroscience unit is devoted to the understanding of how social interactions shape human motivation, learning and behavior. Currently, we study social motivational states (e.g., empathy, collectivism, reciprocity, egoism), investigate their interactions, and test their impact on actual social behavior. Ultimately, we aim at developing tailored social interactions that can be used as a tool for the diagnostic and therapy of psychological disorders, e.g., from the anxiety disorder spectrum. Our approach integrates neuroscience, social and experimental psychology, and behavioral economics. We use a range of methods including brain imaging, computational modeling, and behavioral experiments.
 
-We work in close cooperation with the Institute of Medical Psychology at the Goethe-University Frankfurt/M. Our work is funded by the German Research Foundation.
+We work in cooperation with the Institute of Medical Psychology at the Goethe-University Frankfurt/M. Our work is funded by the German Research Foundation.
 
 ## Contact
 
@@ -23,4 +23,4 @@ Margarete-Höppel-Platz 1
 
 D- 97080 Würzburg
 
-email: Hein@med.uni-frankfurt.de, grit.hein@gmail.com
+email: Hein_G at ukw.de
