@@ -10,12 +10,5 @@ I am a psychologist, neuroscientist and professor of Translational Social Neuros
 We work in cooperation with the Institute of Medical Psychology at the Goethe-University Frankfurt/M. Our work is funded by the German Research Foundation.
 
 ## Contact
-Grit Hein, PhD <br />	 
-Professor of Translational Social Neuroscience <br />	  
-Department of Psychiatry, Psychosomatic <br />	
-and Psychotherapy <br />
-University of Würzburg <br />	
-Margarete-Höppel-Platz 1 <br />	
-97080 Würzburg <br />	
-Germany <br />
-email: Hein_G at ukw.de
+
+Grit Hein, PhD --- Professor of Translational Social Neuroscience --- Department of Psychiatry, Psychosomatic and Psychotherapy --- University of Würzburg ---  Margarete-Höppel-Platz 1 ---	 97080 Würzburg ---	 Germany --- email: Hein_G at ukw.de
