@@ -11,7 +11,10 @@ We work in cooperation with the Institute of Medical Psychology at the Goethe-Un
 
 ## Contact
 
-Grit Hein, PhD,                                                                  Professor of Translational Social Neuroscience                 Department of Psychiatry, Psychosomatic and Psychotherapy                                                               University of Würzburg                                                      Margarete-Höppel-Platz 1    
-97080 Würzburg                                                                    Germany
-
+Grit Hein, PhD
+Professor of Translational Social Neuroscience
+Department of Psychiatry, Psychosomatic and Psychotherapy
+University of Würzburg
+Margarete-Höppel-Platz 1
+97080 Würzburg, Germany
 email: Hein_G at ukw.de
