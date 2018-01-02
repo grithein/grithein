@@ -1,6 +1,6 @@
 ---
-title: Media (recent selection)
-date: '2016-07-21 00:00:00'
+title: Media (selection)
+date: 2016-07-21 00:00:00 +0000
 layout: page
 ---
 * The Scientific American.
