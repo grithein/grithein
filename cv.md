@@ -9,7 +9,7 @@ I studied Psychology at the Humboldt-University of Berlin and the City College o
 
 * academic teaching certificate (habilitation) in Psychology.
 
-**Third party funding.**
+**Third party funding (selection).**
 
 * The Heisenberg Fellowship, coordinated by the German Research Foundation,(DFG), Germany
 * Research Grant accompanying Heisenberg (including research costs and personnel), coordinated by the DFG
