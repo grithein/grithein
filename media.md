@@ -14,13 +14,15 @@ layout: page
 
      [link](https://www.psychologytoday.com/blog/the-athletes-way/201512/your-brain-can-learn-empathize-outside-groups)
 
-* Der Standard. (german)
+* Der Standard. (German)
 
       [link](https://derstandard.at/2000027918476/Empathie-fuer-Fremde-laesst-sich-lernen)
 
-* Schweizer Radio und Fernsehen (SRF). (german)
+* Schweizer Radio und Fernsehen (SRF). (German)
 
      [link](http://www.srf.ch/wissen/mensch/das-raetsel-der-selbstlosigkeit)
+
+     [link](https://www.srf.ch/wissen/mensch/studie-beweist-mitgefuehl-fuer-fremde-ist-lernbar)
 
 * Medical Daily.
 
