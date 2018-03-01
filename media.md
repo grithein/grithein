@@ -8,28 +8,20 @@ layout: page
   [link](http://ondemand-mp3.dradio.de/file/dradio/2018/02/22/der_freundliche_fremde_vorurteile_lassen_sich_erstaunlich_dlf_20180222_1648_be513401.mp3)
 * The Scientific American.
 
-     [link](https://www.scientificamerican.com/article/what-s-your-real-motive-for-being-altruistic/)
-
+  [link](https://www.scientificamerican.com/article/what-s-your-real-motive-for-being-altruistic/)
 * Psychology Today.
 
-     [link](https://www.psychologytoday.com/blog/the-athletes-way/201512/your-brain-can-learn-empathize-outside-groups)
-
-* Der Standard. (German)
-
-      [link](https://derstandard.at/2000027918476/Empathie-fuer-Fremde-laesst-sich-lernen)
-
+  [link](https://www.psychologytoday.com/blog/the-athletes-way/201512/your-brain-can-learn-empathize-outside-groups)
 * Schweizer Radio und Fernsehen (SRF). (German)
 
-     [link](http://www.srf.ch/wissen/mensch/das-raetsel-der-selbstlosigkeit)
+  [link](http://www.srf.ch/wissen/mensch/das-raetsel-der-selbstlosigkeit)
 
-     [link](https://www.srf.ch/wissen/mensch/studie-beweist-mitgefuehl-fuer-fremde-ist-lernbar)
-
+  [link](https://www.srf.ch/wissen/mensch/studie-beweist-mitgefuehl-fuer-fremde-ist-lernbar)
 * Medical Daily.
 
-     [link](http://www.medicaldaily.com/empathy-triggered-positive-experiences-among-strangers-study-366316)
-
+  [link](http://www.medicaldaily.com/empathy-triggered-positive-experiences-among-strangers-study-366316)
 * Science Daily.
 
-     [link](https://www.sciencedaily.com/releases/2016/03/160303145739.htm)
+  [link](https://www.sciencedaily.com/releases/2016/03/160303145739.htm)
 
-     [link](https://www.sciencedaily.com/releases/2016/03/160303145739.htm)
+  [link](https://www.sciencedaily.com/releases/2016/03/160303145739.htm)
