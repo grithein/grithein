@@ -5,8 +5,7 @@ permalink: "/publications/"
 ---
 # Peer-reviewed articles
 
-Windmann, S & **Hein, G** (2018). Altruism from the perspective of the social neuroscience. 
-Neuroforum, 24, 11-18.
+Windmann, S & **Hein, G** (2018). Altruism from the perspective of the social neuroscience. Neuroforum, 24, 11-18.
 
 Baumgartner, T, **Hein, G**, Saulin, A & Knoch, D (2016). Structural differences in insular cortex reflect vicarious injustice insensitivity. Plos One, 11, e0167538.
 
