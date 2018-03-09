@@ -3,6 +3,9 @@ title: Media (selection)
 date: 2016-07-21 00:00:00 +0000
 layout: page
 ---
+* Frankfurter Allgemeine Zeitung (FAZ, Feuiletton, German).
+
+  [link](https://drive.google.com/file/d/1FwKPfgUMvvxHKMUE7-zidIZhSiMeoG_W/view?usp=sharing)
 * Main-Post: Wissen (German).
 
   [link](https://drive.google.com/file/d/1sUI0X95-1F-07ig6kDgn_eg_31N3JNSK/view?usp=sharing)
