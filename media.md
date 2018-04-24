@@ -3,10 +3,16 @@ title: Media (selection)
 date: 2016-07-21 00:00:00 +0000
 layout: page
 ---
+* Interview Frankfurter Allgemeine Zeitung (FAZ, Feuiletton, German).
+
+  [link](https://drive.google.com/file/d/1FoHcBBxeWU7fRvFvvE3886evN141SVPs/view?usp=sharing)
+* Standard (German).
+
+  [link](https://drive.google.com/open?id=1v71YFh8VtVBKv3JahexDxuAxnBe-k_lF)
 * Frankfurter Allgemeine Zeitung (FAZ, Feuiletton, German).
 
   [link](https://drive.google.com/file/d/1FwKPfgUMvvxHKMUE7-zidIZhSiMeoG_W/view?usp=sharing)
-* Main-Post: Wissen (German).
+* Interview Main-Post: Wissen (German).
 
   [link](https://drive.google.com/file/d/1sUI0X95-1F-07ig6kDgn_eg_31N3JNSK/view?usp=sharing)
 * Deutschlandfunk: "Forschung aktuell" (German).
