@@ -2,8 +2,11 @@
 title: ''
 layout: page
 permalink: "/publications/"
+
 ---
 # Peer-reviewed articles
+
+**Hein, G,** Engelmann, JB, & Tobler, PN (2018). Pain relief provided by an outgroup member enhances analgesia. Proceedings of the Royal Society of London B: Biological Sciences, 285, 20180501. 
 
 Windmann, S & **Hein, G** (2018). Altruism from the perspective of the social neuroscience. Neuroforum, 24, 11-18.
 
